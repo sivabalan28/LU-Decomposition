@@ -23,6 +23,7 @@ print L and U matrix
 ## Program:
 (i) To find the L and U matrix
 ```python
+#Program to find L and U matrix using LU decomposition
 #Developed by: Sivabalan S
 #Register number: 22004401
 import numpy as np
@@ -34,6 +35,7 @@ print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```python
+#Program to solve a matrix using LU decomposition
 #Developed by: Sivabalan S
 #Register number: 22004401
 import numpy as np
